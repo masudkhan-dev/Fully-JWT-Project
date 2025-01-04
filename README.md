@@ -5,7 +5,7 @@ for server code dependencis
  add this in package.json
 >  "type": "module",
 
->  use .js for customly created js file like this
+use .js for customly created js file like this
 
-import verifyToken from "../middleware/verifyToken.js";
-import productCollection from "./productCollection.js";
+> import verifyToken from "../middleware/verifyToken.js";
+> import productCollection from "./productCollection.js";
