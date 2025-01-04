@@ -8,4 +8,5 @@ for server code dependencis
 use .js for customly created js file like this
 
 > import verifyToken from "../middleware/verifyToken.js";
+> 
 > import productCollection from "./productCollection.js";
